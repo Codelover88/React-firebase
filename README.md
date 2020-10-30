@@ -4,9 +4,6 @@
 This project shows you how to integrate Firestore into your React application for saving data.
 
 
-
-This project is bootstrapped using Create React App and Bootstrap. In the project directory, you can run:
-
 ### `npm install`
 
 To install all node modules required by this project
