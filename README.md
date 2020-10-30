@@ -1,4 +1,4 @@
-## Screenshot
+
 
 
 This project shows you how to integrate Firestore into your React application for saving data.
